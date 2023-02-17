@@ -9,7 +9,5 @@ ___
 python train.py
 ```
 
-```
-# test
-python test.py
-```
+epochs = 10
+Train_Accuracy = 84%
