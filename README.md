@@ -10,4 +10,5 @@ python train.py
 ```
 
 epochs = 10
+
 Train_Accuracy = 84%
